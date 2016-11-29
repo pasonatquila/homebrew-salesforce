@@ -1,9 +1,9 @@
 class Force < Formula
   desc 'A command-line interface to force.com.'
   homepage 'https://force-cli.herokuapp.com/'
-  version '0.22.60'
+  version '0.22.61'
   url "https://s3-us-west-2.amazonaws.com/force-cli/heroku/force/v#{version}/darwin-amd64/force"
-  sha256 '53666893d223361ab500a575a2b1c283063be6b61e4c31a12eae60b555d9acad'
+  sha256 '37905f21ea6654dd74347d4f365df007d3d230c47b2175272b3fb2d3cd351b35'
 
   bottle :unneeded
 
