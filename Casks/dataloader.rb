@@ -1,6 +1,6 @@
 cask 'dataloader' do
-  version '39.0.0'
-  sha256 '1c1179e32a79f36c3a0637823529f1307ede29e7b1fb18b246671c95798b4414'
+  version '40.0.0'
+  sha256 '5d3f75cb289de3cfe51fc077ba6b76b93325c54ae37eb6d78cb184c20cbb9a7f'
 
   url "https://github.com/forcedotcom/dataloader/releases/download/#{version}/ApexDataLoader.dmg"
   name 'Force.com Data Loader'
