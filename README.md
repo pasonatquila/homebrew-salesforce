@@ -11,7 +11,6 @@
 ```
 $ brew tap pasonatquila/salesforce
 $ brew cask install dataloader
-$ brew cask install forceide2
 $ brew install ant-salesforce
 $ brew install force
 ```
