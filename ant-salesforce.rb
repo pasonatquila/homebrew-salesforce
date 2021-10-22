@@ -1,9 +1,9 @@
 class AntSalesforce < Formula
   desc 'Java/Ant-based command-line utility for moving metadata between a local directory and a Salesforce org.'
-  homepage 'https://developer.salesforce.com/page/Force.com_Migration_Tool'
-  version '42.0'
+  homepage 'https://developer.salesforce.com/docs/atlas.en-us.daas.meta/daas/forcemigrationtool_install.htm'
+  version '53.0'
   url "https://gs0.salesforce.com/dwnld/SfdcAnt/salesforce_ant_#{version}.zip"
-  sha256 '9c5355898caf02767a3e3bde9cb9217d0faa622c8a0597d5548104192e5d4d76'
+  sha256 '6fe13f15b9a41b814b1f858aa123c51cf90e0b5bc395375a8793bad88645b761'
 
   bottle :unneeded
 
